@@ -1,0 +1,6 @@
+Assets/Art/Environment/ChoppableTrees/Pine.fbx|k-pine|mat=*:Assets/Art/Environment/ChoppableTrees/Pine.mat
+Assets/Art/Environment/ChoppableTrees/Oak.fbx|k-oak|mat=*:Assets/Art/Environment/ChoppableTrees/Oak.mat
+Assets/Art/Environment/ChoppableTrees/Birch.fbx|k-birch|mat=*:Assets/Art/Environment/ChoppableTrees/Birch.mat
+Assets/Art/Environment/ChoppableTrees/Maple.fbx|k-maple|mat=*:Assets/Art/Environment/ChoppableTrees/Maple.mat
+Assets/CastlePack/Prefabs/Gates/WallGateHarrowDubleCircleTowers.prefab|k-gate
+Assets/CastlePack/Prefabs/FloorTorch.prefab|k-torch

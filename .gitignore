@@ -1,0 +1,17 @@
+# editor / tooling
+.claude/
+.vscode/
+.idea/
+
+# build output
+dist/
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# python
+__pycache__/
+*.pyc
+*.log

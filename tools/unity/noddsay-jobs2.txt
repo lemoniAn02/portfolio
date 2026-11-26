@@ -1,0 +1,14 @@
+Assets/low-poly Winter snow/Models/OBJ/Santa.obj|n-santa|mat=*:Assets/_Project/Art/Maps/Christmas/Materials/Santa_c773d64c_0.mat
+Assets/low-poly Winter snow/Models/OBJ/SnowMan.obj|n-snowman|mat=*:Assets/_Project/Art/Maps/Christmas/Materials/SnowMan_c141cb4b_0.mat
+Assets/low-poly Winter snow/Models/OBJ/SnowMan2.obj|n-snowman2|mat=*:Assets/_Project/Art/Maps/Christmas/Materials/SnowMan2_300ff313_0.mat
+Assets/low-poly Winter snow/Models/OBJ/treeSemiSnow1.obj|n-tree-semi1|mat=*:Assets/_Project/Art/Maps/Christmas/Materials/treeSemiSnow1_dd4102ad_0.mat
+Assets/low-poly Winter snow/Models/OBJ/treeSemiSnow2.obj|n-tree-semi2|mat=*:Assets/_Project/Art/Maps/Christmas/Materials/treeSemiSnow2_9b303a22_0.mat
+Assets/low-poly Winter snow/Models/OBJ/treeWhite2.obj|n-tree-white2|mat=*:Assets/_Project/Art/Maps/Christmas/Materials/treeWhite2_3e3a26f0_0.mat
+Assets/low-poly Winter snow/Models/OBJ/treeGreen1.obj|n-tree-green|mat=*:Assets/_Project/Art/Maps/Christmas/Materials/treeGreen1_8dc25470_0.mat
+Assets/low-poly Winter snow/Models/OBJ/house.obj|n-house|mat=*:Assets/_Project/Art/Maps/Christmas/Materials/house_4c7fc1d6_0.mat
+Assets/low-poly Winter snow/Models/OBJ/house2.obj|n-house2|mat=*:Assets/_Project/Art/Maps/Christmas/Materials/house2_5dc305f7_0.mat
+Assets/low-poly Winter snow/Models/OBJ/FirePlace.obj|n-fireplace|mat=*:Assets/_Project/Art/Maps/Christmas/Materials/FirePlace_265cbc7f_0.mat
+Assets/Christmas Tree - POLYCRAFT Series/Mesh/Christmas_Tree_V1_00.fbx|n-xmas-tree|mat=*:Assets/_Project/Art/Maps/Christmas/Materials/Christmas_Tree_Set_Diffuse_4f3ea2db_0.mat
+Assets/Christmas Tree - POLYCRAFT Series/Mesh/Present_Box_Color_00.fbx|n-present|mat=*:Assets/_Project/Art/Maps/Christmas/Materials/Christmas_Tree_Set_Diffuse_4f3ea2db_0.mat
+Assets/_Project/Art/Maps/Christmas/Sled/ChristmasSled.fbx|n-sled|mat=*:Assets/_Project/Art/Maps/Christmas/Sled/Christmas sled.mat
+Assets/PolyRonin/Wooden House In The Snow/Meshes/winter-wooden-house-1.fbx|n-wooden-house|mat=*:Assets/_Project/Art/Maps/Christmas/Materials/wooden_house_colors_dd858c26_0.mat
