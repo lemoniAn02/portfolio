@@ -79,8 +79,3 @@ type(scope): 한글 요약        ← 50자 안팎, 끝에 마침표 없음
 - 제목은 커밋 형식과 같게, 본문은 `.github/PULL_REQUEST_TEMPLATE.md` 를 따릅니다.
 - 올리기 전 셀프 체크: 로컬 서버에서 데스크톱(1280) 과 폰(375) 폭 확인, 콘솔 에러 없음, 남은 TODO 표시.
 - 릴리스: `develop → master` 머지 후 `git tag v0.2.0` 처럼 태그.
-
-### 배포
-
-- 원격: `origin` 은 GitHub(`lemoniAn02/portfolio`), 예전 SSAFY GitLab 은 `gitlab` 이름으로 남겨 둠
-- GitHub Pages: 저장소 Settings → Pages → Branch `master` / `(root)`. `index.html` 이 루트에 있어 바로 서비스됩니다.
